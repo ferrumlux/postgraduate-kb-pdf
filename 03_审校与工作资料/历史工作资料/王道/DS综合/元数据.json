@@ -1,0 +1,523 @@
+{
+  "source": "王道/DS综合.pdf",
+  "sha256": "102fc4f8da27d4081ff552269189c2391cf7bf2dc8ad06be87c322fcfafd5246",
+  "page_count": 103,
+  "method": "pdftotext -layout; full page PNG at 150 dpi",
+  "pages": [
+    {
+      "pdf_page": 1,
+      "text_characters": 5357,
+      "image": "页面/page-001.png"
+    },
+    {
+      "pdf_page": 2,
+      "text_characters": 556,
+      "image": "页面/page-002.png"
+    },
+    {
+      "pdf_page": 3,
+      "text_characters": 297,
+      "image": "页面/page-003.png"
+    },
+    {
+      "pdf_page": 4,
+      "text_characters": 281,
+      "image": "页面/page-004.png"
+    },
+    {
+      "pdf_page": 5,
+      "text_characters": 168,
+      "image": "页面/page-005.png"
+    },
+    {
+      "pdf_page": 6,
+      "text_characters": 259,
+      "image": "页面/page-006.png"
+    },
+    {
+      "pdf_page": 7,
+      "text_characters": 224,
+      "image": "页面/page-007.png"
+    },
+    {
+      "pdf_page": 8,
+      "text_characters": 335,
+      "image": "页面/page-008.png"
+    },
+    {
+      "pdf_page": 9,
+      "text_characters": 417,
+      "image": "页面/page-009.png"
+    },
+    {
+      "pdf_page": 10,
+      "text_characters": 450,
+      "image": "页面/page-010.png"
+    },
+    {
+      "pdf_page": 11,
+      "text_characters": 528,
+      "image": "页面/page-011.png"
+    },
+    {
+      "pdf_page": 12,
+      "text_characters": 314,
+      "image": "页面/page-012.png"
+    },
+    {
+      "pdf_page": 13,
+      "text_characters": 493,
+      "image": "页面/page-013.png"
+    },
+    {
+      "pdf_page": 14,
+      "text_characters": 484,
+      "image": "页面/page-014.png"
+    },
+    {
+      "pdf_page": 15,
+      "text_characters": 247,
+      "image": "页面/page-015.png"
+    },
+    {
+      "pdf_page": 16,
+      "text_characters": 230,
+      "image": "页面/page-016.png"
+    },
+    {
+      "pdf_page": 17,
+      "text_characters": 311,
+      "image": "页面/page-017.png"
+    },
+    {
+      "pdf_page": 18,
+      "text_characters": 316,
+      "image": "页面/page-018.png"
+    },
+    {
+      "pdf_page": 19,
+      "text_characters": 280,
+      "image": "页面/page-019.png"
+    },
+    {
+      "pdf_page": 20,
+      "text_characters": 212,
+      "image": "页面/page-020.png"
+    },
+    {
+      "pdf_page": 21,
+      "text_characters": 337,
+      "image": "页面/page-021.png"
+    },
+    {
+      "pdf_page": 22,
+      "text_characters": 319,
+      "image": "页面/page-022.png"
+    },
+    {
+      "pdf_page": 23,
+      "text_characters": 254,
+      "image": "页面/page-023.png"
+    },
+    {
+      "pdf_page": 24,
+      "text_characters": 315,
+      "image": "页面/page-024.png"
+    },
+    {
+      "pdf_page": 25,
+      "text_characters": 395,
+      "image": "页面/page-025.png"
+    },
+    {
+      "pdf_page": 26,
+      "text_characters": 401,
+      "image": "页面/page-026.png"
+    },
+    {
+      "pdf_page": 27,
+      "text_characters": 394,
+      "image": "页面/page-027.png"
+    },
+    {
+      "pdf_page": 28,
+      "text_characters": 465,
+      "image": "页面/page-028.png"
+    },
+    {
+      "pdf_page": 29,
+      "text_characters": 576,
+      "image": "页面/page-029.png"
+    },
+    {
+      "pdf_page": 30,
+      "text_characters": 324,
+      "image": "页面/page-030.png"
+    },
+    {
+      "pdf_page": 31,
+      "text_characters": 279,
+      "image": "页面/page-031.png"
+    },
+    {
+      "pdf_page": 32,
+      "text_characters": 676,
+      "image": "页面/page-032.png"
+    },
+    {
+      "pdf_page": 33,
+      "text_characters": 206,
+      "image": "页面/page-033.png"
+    },
+    {
+      "pdf_page": 34,
+      "text_characters": 813,
+      "image": "页面/page-034.png"
+    },
+    {
+      "pdf_page": 35,
+      "text_characters": 365,
+      "image": "页面/page-035.png"
+    },
+    {
+      "pdf_page": 36,
+      "text_characters": 319,
+      "image": "页面/page-036.png"
+    },
+    {
+      "pdf_page": 37,
+      "text_characters": 411,
+      "image": "页面/page-037.png"
+    },
+    {
+      "pdf_page": 38,
+      "text_characters": 351,
+      "image": "页面/page-038.png"
+    },
+    {
+      "pdf_page": 39,
+      "text_characters": 172,
+      "image": "页面/page-039.png"
+    },
+    {
+      "pdf_page": 40,
+      "text_characters": 188,
+      "image": "页面/page-040.png"
+    },
+    {
+      "pdf_page": 41,
+      "text_characters": 219,
+      "image": "页面/page-041.png"
+    },
+    {
+      "pdf_page": 42,
+      "text_characters": 235,
+      "image": "页面/page-042.png"
+    },
+    {
+      "pdf_page": 43,
+      "text_characters": 309,
+      "image": "页面/page-043.png"
+    },
+    {
+      "pdf_page": 44,
+      "text_characters": 240,
+      "image": "页面/page-044.png"
+    },
+    {
+      "pdf_page": 45,
+      "text_characters": 224,
+      "image": "页面/page-045.png"
+    },
+    {
+      "pdf_page": 46,
+      "text_characters": 389,
+      "image": "页面/page-046.png"
+    },
+    {
+      "pdf_page": 47,
+      "text_characters": 511,
+      "image": "页面/page-047.png"
+    },
+    {
+      "pdf_page": 48,
+      "text_characters": 546,
+      "image": "页面/page-048.png"
+    },
+    {
+      "pdf_page": 49,
+      "text_characters": 215,
+      "image": "页面/page-049.png"
+    },
+    {
+      "pdf_page": 50,
+      "text_characters": 210,
+      "image": "页面/page-050.png"
+    },
+    {
+      "pdf_page": 51,
+      "text_characters": 234,
+      "image": "页面/page-051.png"
+    },
+    {
+      "pdf_page": 52,
+      "text_characters": 342,
+      "image": "页面/page-052.png"
+    },
+    {
+      "pdf_page": 53,
+      "text_characters": 317,
+      "image": "页面/page-053.png"
+    },
+    {
+      "pdf_page": 54,
+      "text_characters": 273,
+      "image": "页面/page-054.png"
+    },
+    {
+      "pdf_page": 55,
+      "text_characters": 257,
+      "image": "页面/page-055.png"
+    },
+    {
+      "pdf_page": 56,
+      "text_characters": 169,
+      "image": "页面/page-056.png"
+    },
+    {
+      "pdf_page": 57,
+      "text_characters": 283,
+      "image": "页面/page-057.png"
+    },
+    {
+      "pdf_page": 58,
+      "text_characters": 641,
+      "image": "页面/page-058.png"
+    },
+    {
+      "pdf_page": 59,
+      "text_characters": 582,
+      "image": "页面/page-059.png"
+    },
+    {
+      "pdf_page": 60,
+      "text_characters": 389,
+      "image": "页面/page-060.png"
+    },
+    {
+      "pdf_page": 61,
+      "text_characters": 268,
+      "image": "页面/page-061.png"
+    },
+    {
+      "pdf_page": 62,
+      "text_characters": 293,
+      "image": "页面/page-062.png"
+    },
+    {
+      "pdf_page": 63,
+      "text_characters": 312,
+      "image": "页面/page-063.png"
+    },
+    {
+      "pdf_page": 64,
+      "text_characters": 189,
+      "image": "页面/page-064.png"
+    },
+    {
+      "pdf_page": 65,
+      "text_characters": 404,
+      "image": "页面/page-065.png"
+    },
+    {
+      "pdf_page": 66,
+      "text_characters": 193,
+      "image": "页面/page-066.png"
+    },
+    {
+      "pdf_page": 67,
+      "text_characters": 569,
+      "image": "页面/page-067.png"
+    },
+    {
+      "pdf_page": 68,
+      "text_characters": 408,
+      "image": "页面/page-068.png"
+    },
+    {
+      "pdf_page": 69,
+      "text_characters": 259,
+      "image": "页面/page-069.png"
+    },
+    {
+      "pdf_page": 70,
+      "text_characters": 437,
+      "image": "页面/page-070.png"
+    },
+    {
+      "pdf_page": 71,
+      "text_characters": 646,
+      "image": "页面/page-071.png"
+    },
+    {
+      "pdf_page": 72,
+      "text_characters": 389,
+      "image": "页面/page-072.png"
+    },
+    {
+      "pdf_page": 73,
+      "text_characters": 513,
+      "image": "页面/page-073.png"
+    },
+    {
+      "pdf_page": 74,
+      "text_characters": 542,
+      "image": "页面/page-074.png"
+    },
+    {
+      "pdf_page": 75,
+      "text_characters": 212,
+      "image": "页面/page-075.png"
+    },
+    {
+      "pdf_page": 76,
+      "text_characters": 352,
+      "image": "页面/page-076.png"
+    },
+    {
+      "pdf_page": 77,
+      "text_characters": 412,
+      "image": "页面/page-077.png"
+    },
+    {
+      "pdf_page": 78,
+      "text_characters": 317,
+      "image": "页面/page-078.png"
+    },
+    {
+      "pdf_page": 79,
+      "text_characters": 279,
+      "image": "页面/page-079.png"
+    },
+    {
+      "pdf_page": 80,
+      "text_characters": 155,
+      "image": "页面/page-080.png"
+    },
+    {
+      "pdf_page": 81,
+      "text_characters": 162,
+      "image": "页面/page-081.png"
+    },
+    {
+      "pdf_page": 82,
+      "text_characters": 319,
+      "image": "页面/page-082.png"
+    },
+    {
+      "pdf_page": 83,
+      "text_characters": 295,
+      "image": "页面/page-083.png"
+    },
+    {
+      "pdf_page": 84,
+      "text_characters": 376,
+      "image": "页面/page-084.png"
+    },
+    {
+      "pdf_page": 85,
+      "text_characters": 622,
+      "image": "页面/page-085.png"
+    },
+    {
+      "pdf_page": 86,
+      "text_characters": 704,
+      "image": "页面/page-086.png"
+    },
+    {
+      "pdf_page": 87,
+      "text_characters": 302,
+      "image": "页面/page-087.png"
+    },
+    {
+      "pdf_page": 88,
+      "text_characters": 417,
+      "image": "页面/page-088.png"
+    },
+    {
+      "pdf_page": 89,
+      "text_characters": 306,
+      "image": "页面/page-089.png"
+    },
+    {
+      "pdf_page": 90,
+      "text_characters": 267,
+      "image": "页面/page-090.png"
+    },
+    {
+      "pdf_page": 91,
+      "text_characters": 621,
+      "image": "页面/page-091.png"
+    },
+    {
+      "pdf_page": 92,
+      "text_characters": 182,
+      "image": "页面/page-092.png"
+    },
+    {
+      "pdf_page": 93,
+      "text_characters": 442,
+      "image": "页面/page-093.png"
+    },
+    {
+      "pdf_page": 94,
+      "text_characters": 164,
+      "image": "页面/page-094.png"
+    },
+    {
+      "pdf_page": 95,
+      "text_characters": 626,
+      "image": "页面/page-095.png"
+    },
+    {
+      "pdf_page": 96,
+      "text_characters": 266,
+      "image": "页面/page-096.png"
+    },
+    {
+      "pdf_page": 97,
+      "text_characters": 329,
+      "image": "页面/page-097.png"
+    },
+    {
+      "pdf_page": 98,
+      "text_characters": 826,
+      "image": "页面/page-098.png"
+    },
+    {
+      "pdf_page": 99,
+      "text_characters": 366,
+      "image": "页面/page-099.png"
+    },
+    {
+      "pdf_page": 100,
+      "text_characters": 373,
+      "image": "页面/page-100.png"
+    },
+    {
+      "pdf_page": 101,
+      "text_characters": 411,
+      "image": "页面/page-101.png"
+    },
+    {
+      "pdf_page": 102,
+      "text_characters": 218,
+      "image": "页面/page-102.png"
+    },
+    {
+      "pdf_page": 103,
+      "text_characters": 377,
+      "image": "页面/page-103.png"
+    }
+  ]
+}

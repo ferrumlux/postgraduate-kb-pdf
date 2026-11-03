@@ -1,0 +1,716 @@
+{
+  "generated_at": "2026-11-03T00:50:02.476994-05:00",
+  "notice": "仅检查当前文件状态，所有内容仍须逐原图核对；重复候选不可自动删除。并行写入期间为非事务快照。",
+  "documents": [
+    {
+      "source": "王道/DS.pdf",
+      "total_pages": 404,
+      "page_files": 404,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [],
+      "content_review_candidates": [
+        {
+          "page": 1,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "[二维码图像见原图]"
+        },
+        {
+          "page": 25,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "【扫码 视频讲解】二维码见原图。"
+        },
+        {
+          "page": 38,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "注：在 Reverse 中，两个参数分别表示数组中待转换元素的始末位置。"
+        },
+        {
+          "page": 66,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "本题代码如下：（代码续下页。）"
+        },
+        {
+          "page": 67,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "算法思想：让 p 从左向右扫描，q 从右向左扫描，直到它们指向同一结点（p==q，当循环双链表中结点个数为奇数时）或相邻（p->next==q 或 q->prior=p，当循环双链表中结点个数为偶数时）为止。若它们所指结点值相同，则继续进行下去，否则返回 0。若比较全部相等，则返回 1。本题代码如下：（续下页。）"
+        },
+        {
+          "page": 68,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "本题代码如下：（下半段续下页。）"
+        },
+        {
+          "page": 70,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "（代码续下页。）"
+        },
+        {
+          "page": 73,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "（代码续下页。）"
+        },
+        {
+          "page": 79,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "**13.** 3 个不同元素依次入栈，能得到（ ）种不同的出栈序列。（选项续下页。）"
+        },
+        {
+          "page": 80,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "（选项续下页。）"
+        },
+        {
+          "page": 87,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "（2）出栈操作，代码如下（续下页）："
+        },
+        {
+          "page": 90,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "（代码续下页。）"
+        },
+        {
+          "page": 91,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "（代码续下页。）"
+        },
+        {
+          "page": 94,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "**10.** 假设用 A[0...n] 实现循环队列，front、rear 分别指向队首元素的前一个位置和队尾元素。若用 `(rear+1)%(n+1)==front` 作为队满标志，则（选项续下页）。"
+        },
+        {
+          "page": 100,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "（代码续下页。）"
+        },
+        {
+          "page": 107,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "程序运行时使用栈来保存调用过程的信息，自栈底到栈顶保存的信息依次对应的是（选项续下页）。"
+        },
+        {
+          "page": 184,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "**05.** 设森林`F`对应的二叉树为`B`，它有`m`个结点，`B`的根为`p`，`p`的右子树结点数为`n`，森林`F`中第一棵树的结点数是（）。选项续下页。"
+        },
+        {
+          "page": 305,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "**21.** 将关键字 5，4，3，2，1 依次插入初始为空的红黑树 T，则 T 的最终形态是（ ）。选项 A～D 见原图。"
+        },
+        {
+          "page": 305,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "**23.【2009 统考真题】** 下列二叉排序树中，满足平衡二叉树定义的是（ ）。选项 A～D 的树形见原图。"
+        }
+      ],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "78fca2e8ef434d43a516b4954856c5a5228172e5acca9a202ab4e29624850c26",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [
+        {
+          "page": 275,
+          "stage": "luna_visual_revision_reported",
+          "evidence": "文本转换/DS审校274-281记录.md"
+        },
+        {
+          "page": 276,
+          "stage": "luna_visual_revision_reported",
+          "evidence": "文本转换/DS审校274-281记录.md"
+        },
+        {
+          "page": 277,
+          "stage": "luna_visual_revision_reported",
+          "evidence": "文本转换/DS审校274-281记录.md"
+        },
+        {
+          "page": 279,
+          "stage": "luna_visual_revision_reported",
+          "evidence": "文本转换/DS审校274-281记录.md"
+        },
+        {
+          "page": 280,
+          "stage": "luna_visual_revision_reported",
+          "evidence": "文本转换/DS审校274-281记录.md"
+        }
+      ],
+      "pages_changed_since_latest_batch_record": [
+        274,
+        278,
+        281
+      ]
+    },
+    {
+      "source": "王道/DS综合.pdf",
+      "total_pages": 103,
+      "page_files": 103,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [],
+      "content_review_candidates": [],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "e5e7582ef1a934654d418f7d754c1015f0cc6384a6057dfdfabe11fbf7ea9c13",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [],
+      "pages_changed_since_latest_batch_record": []
+    },
+    {
+      "source": "王道/DS选择.pdf",
+      "total_pages": 109,
+      "page_files": 109,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [],
+      "content_review_candidates": [],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "e487a3aa08c5245e35fa28e0e91cda6bfaa50d0e076210c3cca44c6d3bf57b8c",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [],
+      "pages_changed_since_latest_batch_record": []
+    },
+    {
+      "source": "王道/OS.pdf",
+      "total_pages": 370,
+      "page_files": 370,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [
+        {
+          "pages": [
+            165,
+            166
+          ],
+          "matching_characters": 210,
+          "excerpt": "**|进程名|WorkA|WorkB|WorkC|NeedA|NeedB|NeedC|AllocationA|AllocationB|AllocationC|Work+AllocationA|Work+AllocationB|Work+AllocationC|Finish||---|---:|---:|---:|---:|---:|---:|---:|---"
+        },
+        {
+          "pages": [
+            166,
+            167
+          ],
+          "matching_characters": 162,
+          "excerpt": "分配资源后的有关资源数据**|进程名|AllocationA|AllocationB|AllocationC|NeedA|NeedB|NeedC|AvailableA|AvailableB|AvailableC||---|---:|---:|---:|---:|---:|---:|---:|---:|---:||P₀|0|"
+        },
+        {
+          "pages": [
+            228,
+            229
+          ],
+          "matching_characters": 165,
+          "excerpt": "原图表格转写（空白格按原图留空）|访问页面|7|0|1|2|0|3|0|4|2|3|0|3|2|1|2|0|1|7|0|1||---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---||物理块1|7|7|7|2||2||"
+        }
+      ],
+      "content_review_candidates": [
+        {
+          "page": 5,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "想了解课程、获取就业数据或就业咨询吗？扫码添加王道老师的微信，一对一为你解答。（二维码见原图）"
+        },
+        {
+          "page": 89,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "（题干及选项续下页）"
+        }
+      ],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "1c4fd80ed12bbad65b0c0eb23852efc4f5869be36636f48f2f54c04c960bfb26",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [
+        {
+          "page": 271,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 272,
+          "stage": "secondary_visual_review_and_table_revision",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 273,
+          "stage": "secondary_visual_review_and_table_revision",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 274,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 275,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 276,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 277,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 278,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 279,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 280,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 281,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 282,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 283,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 284,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 285,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 286,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 287,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 288,
+          "stage": "luna_visual_revision_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 289,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        },
+        {
+          "page": 290,
+          "stage": "luna_visual_transcription_reported",
+          "evidence": "文本转换/OS补页B记录.md"
+        }
+      ],
+      "pages_changed_since_latest_batch_record": []
+    },
+    {
+      "source": "王道/OS综合.pdf",
+      "total_pages": 78,
+      "page_files": 78,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [],
+      "content_review_candidates": [],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "0dc21c91f7ec666b5c1b9dc720da9f7fddd7abb02061023522e30ac199f2e5df",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [],
+      "pages_changed_since_latest_batch_record": []
+    },
+    {
+      "source": "王道/OS选择.pdf",
+      "total_pages": 110,
+      "page_files": 110,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [],
+      "content_review_candidates": [],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "d7e81abc6ef3ee0fd0d74543ba80bbb76a1ff8107e66f484f79e749d5b8daab4",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [],
+      "pages_changed_since_latest_batch_record": []
+    },
+    {
+      "source": "王道/答案页整理/DS答案页.pdf",
+      "total_pages": 80,
+      "page_files": 80,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [],
+      "content_review_candidates": [],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "446a1d5580b708b1467ca59b7135d0f6e68be1eece61eadbf03569e3d08c4c55",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [],
+      "pages_changed_since_latest_batch_record": []
+    },
+    {
+      "source": "王道/答案页整理/OS答案页.pdf",
+      "total_pages": 24,
+      "page_files": 24,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [],
+      "content_review_candidates": [],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "5a7eab3b1b135984135e5f864e7f071c393fa4949931631f36c49212c4852279",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [],
+      "pages_changed_since_latest_batch_record": []
+    },
+    {
+      "source": "王道/答案页整理/计组答案页.pdf",
+      "total_pages": 45,
+      "page_files": 45,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [],
+      "content_review_candidates": [],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "81ce7991636aa867f5d6aaca6c0dc0ffee224a98a788b8f6ebc7a7cc237342c2",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [],
+      "pages_changed_since_latest_batch_record": []
+    },
+    {
+      "source": "王道/答案页整理/计网答案页.pdf",
+      "total_pages": 44,
+      "page_files": 44,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [],
+      "content_review_candidates": [],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "83d7916c5acd750b07450182aeeecbba0e99e362ac57e47ea947517d7bd0badc",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [],
+      "pages_changed_since_latest_batch_record": []
+    },
+    {
+      "source": "王道/计组.pdf",
+      "total_pages": 333,
+      "page_files": 333,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [],
+      "content_review_candidates": [],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "77ad795a65dcaa652de29f7a7bd8b290078789bba8a2c1ab3d46fe9f18ff6ebc",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [],
+      "pages_changed_since_latest_batch_record": []
+    },
+    {
+      "source": "王道/计组综合.pdf",
+      "total_pages": 61,
+      "page_files": 61,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [],
+      "content_review_candidates": [],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "658a754d126d4c55a782c959989403b2d7f00e3304f071816ad61fc598e0bcf1",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [],
+      "pages_changed_since_latest_batch_record": []
+    },
+    {
+      "source": "王道/计组选择.pdf",
+      "total_pages": 105,
+      "page_files": 105,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [],
+      "content_review_candidates": [],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "c1db5d227082082aeacb89fb388cb10b418718fd49e4890d631e5a28d6d7e27a",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [],
+      "pages_changed_since_latest_batch_record": []
+    },
+    {
+      "source": "王道/计网.pdf",
+      "total_pages": 316,
+      "page_files": 316,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [],
+      "content_review_candidates": [
+        {
+          "page": 159,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "> **注意**　从转发表得到下一跳路由器的IP地址后，并不会将该地址填入待转发分组的首部，而是通过ARP（见4.2.5节）解析出对应的MAC地址，填入链路层帧首部作为目的地址。随后，该帧通过数据链路层发送至下一跳路由器。路由器收到后，剥离帧首部，取出IP分组，再交给网络层处理。"
+        },
+        {
+          "page": 279,
+          "reason": "possible_placeholder_or_page_boundary",
+          "excerpt": "[扫码视频讲解二维码见原图](../images/page-0279.png)"
+        }
+      ],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "31f437872785200ad602c3792f6415bfafec3084cbe28d4cfe2e3b14082e53cc",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [
+        {
+          "page": 291,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 292,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 293,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 295,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 296,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 297,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 298,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 299,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 300,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 302,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 303,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 305,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 306,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 307,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 308,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 309,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 311,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 312,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 313,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 314,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 315,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        },
+        {
+          "page": 316,
+          "stage": "independent_visual_review_completed",
+          "evidence": "文本转换/计网补页291-316记录.md"
+        }
+      ],
+      "pages_changed_since_latest_batch_record": [
+        294,
+        301,
+        304,
+        310
+      ]
+    },
+    {
+      "source": "王道/计网综合.pdf",
+      "total_pages": 45,
+      "page_files": 45,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [],
+      "content_review_candidates": [],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "0cd5d629e20084b834dc9f4226ee58a9b132f622e4a198ab85e0ee86aae1f055",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [],
+      "pages_changed_since_latest_batch_record": []
+    },
+    {
+      "source": "王道/计网选择.pdf",
+      "total_pages": 97,
+      "page_files": 97,
+      "missing": [],
+      "unexpected_pages": [],
+      "missing_source_images": [],
+      "mechanical_issues": [],
+      "adjacent_duplicate_candidates": [],
+      "content_review_candidates": [],
+      "compiled": true,
+      "content_verified": false,
+      "page_files_sha256": "b9f01e767fa8db1ea7f0ca24ddd739b599170b0f86bde2d5d98349a7de05678d",
+      "compiled_broken_local_links": [],
+      "compiled_matches_current_pages": true,
+      "compiled_page_body_matches_current_pages": true,
+      "compiled_prefix_line_count": 0,
+      "batch_records_matching_current_files": [],
+      "pages_changed_since_latest_batch_record": []
+    }
+  ]
+}
