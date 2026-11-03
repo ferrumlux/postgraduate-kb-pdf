@@ -1,5 +1,12 @@
 # PDF → Markdown 任务交接
 
+## 2026-11-03 双仓库与恢复状态
+
+- 本地入口 `/share/common/27考研知识库/`（亦由 `/home/vega/workspace/postgraduate-kb` 指向）现包含两个独立仓库：`postgraduate-kb-pdf/` 保存 `01_PDF原版/` 和 `03_审校与工作资料/`；`postgraduate-kb-md/` 保存 `02_Markdown提取版/`。父级旧 Git 库已可恢复地移到 `/share/common/27考研知识库-legacy-git-backup`。
+- 公开 GitHub 仓库分别为 `ferrumlux/postgraduate-kb-pdf` 与 `ferrumlux/postgraduate-kb-md`；两仓初始内容已经推送。PDF 后续审校脚本路径修复提交仍需新 GitHub 凭据推送；Entire 镜像仍待账号授权及 GitHub App 接入。
+- 审计脚本已按双仓路径修复。最近一次机械审计为王道16份逐页稿2324/2324、机械问题0、16份全文正文同步、页图及全文本地链接无失效。此结果不代表逐图内容终验；数学仍未转换。
+- PDF 子仓的 LFS 缓存已迁入自身 `.git/lfs`，不再依赖父级旧 Git 库；MD 子仓的2324张页图均由 LFS 管理。两仓本地 `git lfs fsck` 均通过。
+
 ## 2026-11-02 目录规范化
 
 - 2026-11-03关机前续审：DS130–139、OS261–270和计网296–305有独立审校记录；计网301发件地址按原图从 `cskayan2012@163.com` 修为 `cskaoyan2012@163.com`，主会话复核原图并重建计网全文。其余批次未发现可确认错漏。此前OS254、259及DS126相关修改均已汇总，详见下条。
