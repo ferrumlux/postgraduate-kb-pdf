@@ -13,7 +13,7 @@ from urllib.parse import unquote, urlsplit
 WORK = Path(__file__).resolve().parent
 ROOT = WORK.parent.parent
 PDF_ROOT = ROOT / '01_PDF原版'
-TEXT_ROOT = ROOT / '02_Markdown提取版'
+TEXT_ROOT = ROOT.parent / 'postgraduate-kb-md' / '02_Markdown提取版'
 
 
 def broken_local_links(text, base):

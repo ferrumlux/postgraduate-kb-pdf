@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:50:02.476994-05:00",
+  "generated_at": "2026-11-03T08:29:53.865011-05:00",
   "notice": "仅检查当前文件状态，所有内容仍须逐原图核对；重复候选不可自动删除。并行写入期间为非事务快照。",
   "documents": [
     {
@@ -477,7 +477,7 @@
       "content_review_candidates": [],
       "compiled": true,
       "content_verified": false,
-      "page_files_sha256": "77ad795a65dcaa652de29f7a7bd8b290078789bba8a2c1ab3d46fe9f18ff6ebc",
+      "page_files_sha256": "81f43a9234c68dffaf0c97a2104ecfa0c7a3fcba013236773ba0141ecd6f6da0",
       "compiled_broken_local_links": [],
       "compiled_matches_current_pages": true,
       "compiled_page_body_matches_current_pages": true,
